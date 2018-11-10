@@ -1,7 +1,7 @@
 {
   "name": "webpack-dev",
   "version": "1.0.0",
-  "description": "Webpack dev environment",
+  "description": "git ",
   "main": "index.js",
   "scripts": {
     "test": "echo 'Skrypt testowy'",
